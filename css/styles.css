@@ -91,8 +91,8 @@ body.max{
 .searchbox.searchbox-icon{
     width:calc(100% - 20px);
     border-radius: 10000px;
-    padding: 10px;  
-    text-indent: 30px;
+    padding: 20px;  
+    text-indent: 40px;
     user-select: text;
 }
 
@@ -154,7 +154,7 @@ body.max{
     content: "";
     position: absolute;
     top:-12px;
-    left:24px;
+    left:32px;
     fill:rgb(218, 218, 230);
     stroke: rgb(218, 218, 230);
     width: 24px;
@@ -188,7 +188,7 @@ body.max{
     }
     .nav{
         
-        background-color: #f9f9fe;
+        background-color: #ffffff;
         box-shadow: #000 0px 5px 10px -10px;
     }
 }
